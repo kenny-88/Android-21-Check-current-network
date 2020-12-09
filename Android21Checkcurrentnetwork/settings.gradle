@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Android-21-Check-current-network"
